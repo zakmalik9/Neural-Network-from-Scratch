@@ -11,3 +11,6 @@ My Semester Project for Data Structures and Object Oriented Programming Course. 
 
 ## Some Output Screenshots
 
+![ScreenShot(Training Proof).png](https://github.com/zakmalik9/Neural-Network-from-Scratch/blob/main/ScreenShot(Training%20Proof).png)
+
+![ScreenShot(GUI Output).png](https://github.com/zakmalik9/Neural-Network-from-Scratch/blob/main/ScreenShot(GUI%20Output).png)
